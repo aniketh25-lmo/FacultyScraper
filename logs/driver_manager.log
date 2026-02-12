@@ -1,0 +1,3 @@
+2026-02-12 14:27:29,511 - INFO - Initializing WebDriver
+2026-02-12 14:27:29,511 - INFO - Attempting automatic ChromeDriver setup
+2026-02-12 14:27:37,310 - INFO - ChromeDriver initialized via WebDriver Manager
