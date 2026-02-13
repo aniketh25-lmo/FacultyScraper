@@ -1,5 +1,5 @@
 FACULTY RESEARCH SCRAPER – USER GUIDE
-------------------------------------
+------------------------------------ 
 
 This tool extracts publication data for faculty members from:
 
