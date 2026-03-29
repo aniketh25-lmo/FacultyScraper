@@ -1,6 +1,0 @@
-{
-    "login_wait_time": 30,
-    "page_load_wait": 10,
-    "output_folder": "outputs",
-    "headless": false
-}
